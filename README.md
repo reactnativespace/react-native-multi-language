@@ -2,7 +2,7 @@
 ![Screenshot](screenshot.png)
 
 ### 📖Read blog post
-https://reactnativespace.com/tutorials/how-to-offer-multi-language-support-in-react-native
+https://reactnativespace.com/tutorials/multi-language-support-in-react-native
 
 ### 📘 Installation
 Clone the repo to your directory and install the packages through npm using:
