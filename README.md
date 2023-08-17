@@ -1,4 +1,4 @@
-### How to Offer Multi-language Support in React Native?
+## How to Offer Multi-language Support in React Native?
 ![Screenshot](screenshot.png)
 
 ### 📖Read blog post
